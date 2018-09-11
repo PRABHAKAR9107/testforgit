@@ -1,4 +1,4 @@
 # About the Repository
 
 
-This repository specified to command line terminal.
+This repository is tested for command line terminal.
